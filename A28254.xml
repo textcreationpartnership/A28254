@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A modest check to part of a scandalous libel intituled the case of Col. Kyrle, Capt. Pury Iunior and Captain Phillips concerning Wood &amp;c. wherein the false and unworthy aspertions cast upon the gentlemen of Bristoll and some others, late commissioners for the enquiring into and preventing the wasts of the forrest of Deane are wiped off, their integrity vindicated and other things occasionally touched at / by George Bishope.</title>
+            <author>Bishop, George, d. 1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28254</idno>
+            <idno type="STC">Wing B3019A</idno>
+            <idno type="STC">ESTC R24098</idno>
+            <idno type="EEBO-CITATION">07951677</idno>
+            <idno type="OCLC">ocm 07951677</idno>
+            <idno type="VID">40672</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28254)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40672)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1197:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A modest check to part of a scandalous libel intituled the case of Col. Kyrle, Capt. Pury Iunior and Captain Phillips concerning Wood &amp;c. wherein the false and unworthy aspertions cast upon the gentlemen of Bristoll and some others, late commissioners for the enquiring into and preventing the wasts of the forrest of Deane are wiped off, their integrity vindicated and other things occasionally touched at / by George Bishope.</title>
+                  <author>Bishop, George, d. 1668.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1650?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1660.</term>
+               <term>Great Britain --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:40672:1"/>
+            <pb n="1" facs="tcp:40672:1" rendition="simple:additions"/>
+            <head>A MODEST CHECK To part of a Scandalous LIBELL Intituled the Caſe of Col. <hi>Kyrle,</hi> Capt. <hi>Pury Iunior,</hi> and Captaine <hi>Phillips</hi> concerning WOOD &amp;c. Wherein the falſe and unworthy Aſpertions caſt upon the <hi>Gentle<g ref="char:EOLhyphen"/>men</hi> of <hi>BRISTOLL,</hi> and ſome others, late Commiſſioners, for the en<g ref="char:EOLhyphen"/>quiring into, and preventing the Waſts of the Forreſt of Deane are wiped off, their Integrity vindicated, and other things occaſionally touched at.</head>
+            <byline>By Captaine <hi>George Biſhope,</hi> a Citizen of <hi>Briſtoll,</hi> and a Joint Commiſſioner.</byline>
+            <p>
+               <seg rend="decorInit">H</seg>AD not the high <hi>provocation</hi> of a ſcurrilous <hi>Libell,</hi> Inti<g ref="char:EOLhyphen"/>tuled, <hi>The Caſe of Colonell Kyrle,</hi> &amp;c. Exceedingly preſt me, I had at this time been altogether ſilent, being grie<g ref="char:EOLhyphen"/>ved to the heart, that <hi>England</hi> ſhould bear ſuch unworthy <hi>ſpirits,</hi> who have not only made (in theſe times of dan<g ref="char:EOLhyphen"/>ger) ſuch horrid deſtructions of <hi>ſhipping-Timber</hi> (the ve<g ref="char:EOLhyphen"/>ry <hi>Bulwarke</hi> of the <hi>Nation</hi>) but with a <hi>hardned brow</hi> dare to juſtifie their unparalleld <hi>offences,</hi> with ſcandalous re<g ref="char:EOLhyphen"/>criminating of thoſe <hi>Gentlemen,</hi> who by <hi>Authority of Parliament,</hi> and out of their deep ſenſe of the miſchiefs thereof, have made an impartial <hi>inquiſition into,</hi> and as faithfull a <hi>returne of</hi> thoſe <hi>ſpoiles</hi> lately committed, and other <hi>Arbitrary,</hi> and inſolent actions: whoſe <hi>uprightneſſe, induſtry,</hi> and timeous calling upon the <hi>Parliament</hi> to ſtop the <hi>procreds</hi> of ſuch growing <hi>miſchiefes</hi> (which to their <hi>praiſe they</hi> have heartily conſidered) not only <hi>this,</hi> but <hi>after-ages,</hi> will have cauſe, in a due ſenſe of <hi>goatitude,</hi> to acknowledge.</p>
+            <p>And indeed I was onee to reſolved not to <hi>honour</hi> ſuch a pack of <hi>untruths</hi> and <hi>ſcandalls</hi> with any <hi>correction,</hi> the <hi>Parliament</hi> by their ſeaſonable <hi>Votes</hi> (notwith<g ref="char:EOLhyphen"/>ſtanding their <hi>Clamours</hi> &amp; <hi>aſperſions</hi>) having juſtified <hi>our proceedings:</hi> But finding a ſtrenuous <hi>Endeavour</hi> in the <hi>Libeller,</hi> to inſinuate into the <hi>world</hi> a belief of their <hi>Innocency</hi> and <hi>merits,</hi> though with the blemiſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of the <hi>Parliaments Iuſtice,</hi> and the wounding of the <hi>reputation</hi> of the <hi>Commiſſioners,</hi> and the <hi>City of Briſtoll;</hi> I could no longer permit ſuch a daring <hi>Adverſary</hi> to bid defiance to ſo much <hi>truth</hi> and <hi>juſtice,</hi> without an <hi>encounter.</hi>
+            </p>
+            <p>And <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere I intend not to <hi>refute</hi> the ſeverall branches of the <hi>caſe</hi> exactly, that being an after-intended work, fitter for a <hi>Volume</hi> then a <hi>ſheet,</hi> &amp; which happily will be in <hi>poſitive proofes,</hi> not in <hi>It may bees,</hi> and conjecturall conceits. Yet be<g ref="char:EOLhyphen"/>fore I leave this, becauſe the ſubſtance of the <hi>caſe</hi> is the pretenſion of <hi>Authority,</hi> where it will ſerve their <hi>ends,</hi> their <hi>innocency, merits,</hi> and the <hi>abuſes</hi> and <hi>breaches</hi> of <hi>Authority</hi> when it ſerves not their <hi>Advantage;</hi> let the <hi>Read<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> pleaſe to cnoſider with me theſe <hi>particulars,</hi> a little to <hi>unvaile</hi> that <hi>mysterie,</hi> and ſo procced.</p>
+            <p>2. For the pretenſion of Authority, conſider.</p>
+            <pb n="2" facs="tcp:40672:2"/>
+            <p>1. That <hi>many</hi> of the <hi>Country-Committee</hi> are the <hi>Creatures</hi> of ſome that beare the <hi>names</hi> mentioned. who when they <hi>confeſſed</hi> that ſome things depend<g ref="char:EOLhyphen"/>ing before the <hi>Committee</hi> were <hi>juſt,</hi> yet dare not to <hi>owne</hi> them, where thoſe <hi>Gen<g ref="char:EOLhyphen"/>tlemen</hi> reſolve the contrary, leaſt he that put in their names ſhould <hi>return</hi> them into their priſtine condition (as ſome of them have ingeniouſly acknowledged) and it is not unknowne, that when any <hi>Spirit</hi> of <hi>Juſtice</hi> hath appeared, that will nor bow to the <hi>Arbitrary</hi> and <hi>unlimitted</hi> will of ſome men preſent, the <hi>Committee</hi> (for that time) hath ſuffered a <hi>diſſolution,</hi> and at <hi>a ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k doore,</hi> thoſe have returned againe, and ſate, which would ſerve that <hi>end,</hi> whereby they are able to colour their unjuſt actions, with the very <hi>orders</hi> and <hi>formes</hi> of <hi>Authority.</hi>
+            </p>
+            <p>2. The <hi>Juſtices</hi> of the <hi>Country</hi> muſt be of the ſame <hi>Complexion,</hi> who when they have according to their <hi>Oathes,</hi> done <hi>juſt</hi> actions, are <hi>threatned</hi> out of them with a <hi>remove</hi> to the <hi>Committee</hi> of <hi>Indempnitie;</hi> who becauſe they are loath to take ſuch a <hi>Journey,</hi> or be <hi>put</hi> out of <hi>power,</hi> (as one of them ingeni<g ref="char:EOLhyphen"/>ouſly confeſſed) ſound a <hi>retreat</hi> to their <hi>juſt orders;</hi> and ſuch as <hi>ſtand</hi> to <hi>them,</hi> are <hi>expungd</hi> the <hi>Commiſſion.</hi>
+            </p>
+            <p>3. The <hi>Officers</hi> of the <hi>Forrest</hi> of <hi>Deane</hi> are <hi>ſuch,</hi> as they themſelves have <hi>made;</hi> thoſe formerly in office, that would not be <hi>conjur'd</hi> into <hi>Connivances,</hi> and <hi>breaches</hi> of <hi>Truſt,</hi> ſuffred a <hi>diſmiſſe,</hi> and <hi>forbid</hi> to walke the <hi>Forreſt,</hi> to diſcover the <hi>abuſes.</hi>
+            </p>
+            <p>4. Then if it be conſidered with the former, that ſome of the <hi>Gentlemen</hi> named, were in a <hi>Commiſſion</hi> to make <hi>Sale,</hi> and diſpoſe of the <hi>Wood</hi> in the <hi>For<g ref="char:EOLhyphen"/>reſt,</hi> and upon <hi>pretences</hi> of Sale of <hi>underwood, dead, and dry wood, &amp;c.</hi> and leaſt the <hi>Country</hi> ſhould make <hi>ſpoile,</hi> gaine <hi>Contracts</hi> from the <hi>Committee</hi> of the <hi>Re<g ref="char:EOLhyphen"/>vennue</hi> (for which one of them is a <hi>Receiver.</hi>) Any <hi>ingenious and impartiall man</hi> will eaſily ſee, into what a <hi>faire way</hi> theſe <hi>Gentlemen</hi> have got, to commit what <hi>deſtructions</hi> they pleaſe, and that under the ſhaddow of <hi>Authoritie.</hi>
+            </p>
+            <p>And yet thoſe very <hi>contracts,</hi> to whoſe <hi>coverts</hi> they flie, allow no cutting downe of <hi>Timber-trees,</hi> no <hi>commanding</hi> the <hi>Coards of wood</hi> to be made <hi>above</hi> the <hi>ſtandard</hi> of the <hi>Forreſt,</hi> no taking away of <hi>Coards</hi> without <hi>delivery,</hi> No putting <hi>timber,</hi> and the <hi>beſt wood</hi> amongſt <hi>Roote wood</hi> to paſſe at 12. d. <hi>the Coard;</hi> No <hi>diſobedience and contempt of orders of Parliament, Councell of State, Lord Generall, Committees, Commiſſioners</hi> authorized by <hi>Parliament,</hi> no encon<g ref="char:EOLhyphen"/>raging the <hi>Cutters</hi> to doe contrary to <hi>order,</hi> though it coſt a <hi>thouſand pounds,</hi> no forcible taking away of other mens <hi>proprieties,</hi> all which <hi>crimes,</hi> with many more are <hi>depoſed</hi> in the <hi>returne</hi> of our <hi>Commiſſion;</hi> upon thoſe <hi>Gentle<g ref="char:EOLhyphen"/>men,</hi> whom the <hi>Libeller</hi> would vindicate; Let me give you one or two <hi>In<g ref="char:EOLhyphen"/>ſtances</hi> of the truth, of what the <hi>Libeller</hi> aſſerts, by which his <hi>Credit</hi> in the reſt, with the <hi>Innocencie</hi> of the <hi>Gentlemen</hi> may be judged.</p>
+            <p>The <hi>Libeller</hi> page 3. ſaith, that <hi>Mr. Purie</hi> charged the <hi>workemen</hi> not to <hi>cut</hi> downe any <hi>trees,</hi> but ſuch as are appointed by the <hi>Preſervators,</hi> and that when the <hi>three hundred trees</hi> were cut downe together, it was by <hi>order</hi> of the <hi>Preſer<g ref="char:EOLhyphen"/>vators;</hi> and that he cauſed the <hi>ſtay</hi> of their cutting into <hi>Coards</hi> till the <hi>Preſer<g ref="char:EOLhyphen"/>vators</hi> viewed them; That none of <hi>them</hi> were found to be <hi>timber trees,</hi> and ve<g ref="char:EOLhyphen"/>ry little <hi>timber</hi> in the <hi>reſt.</hi>
+            </p>
+            <p>Whereas the <hi>Preſervators,</hi> and others have <hi>depoſed</hi> that <hi>Mr. Purie</hi> was ſer<g ref="char:EOLhyphen"/>ved with the <hi>Order of reſtraint, March</hi> 17. 1648. forbidding the cutting of any more <hi>trees,</hi> and that notwithſtanding <hi>foure hundred Oakes</hi> were cut downe by his <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulters,</hi> and others in the ſpace of foure or five dayes in <hi>Eaſter-weake
+<pb n="3" facs="tcp:40672:2"/> laſt,</hi> and <hi>fourty</hi> ſhortly after that, and that when the <hi>Preſervators</hi> refuſed the deliverie of the <hi>proceeds</hi> of thoſe trees, becauſe contrary <hi>to Order of Parlia<g ref="char:EOLhyphen"/>ment; Captaine Purie</hi> told <hi>them</hi> paſſionately, that if they would not deliver <hi>them, they</hi> would take <hi>them</hi> themſelves; and another hath <hi>depoſed</hi> that <hi>they</hi> were <hi>maſt timber trees:</hi> Nay, when <hi>one</hi> of his owne <hi>workemen</hi> told him of <hi>the Or<g ref="char:EOLhyphen"/>der of Parliament,</hi> not to <hi>cut</hi> any, he notwithſtanding commanded <hi>him</hi> to <hi>cut, coale, &amp;c.</hi> and that from that time, <hi>ten horſes a day</hi> carry <hi>coale</hi> to his <hi>workes.</hi> The like the <hi>Cutters depoſe</hi> of his <hi>commanding</hi> them to make the <hi>Coards</hi> above the <hi>aſſize,</hi> it being almoſt 4000 <hi>l.</hi> loſſe in 10000 <hi>l.</hi> as will be proved; and his <hi>contending</hi> with <hi>Oldfield</hi> the <hi>Survei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r,</hi> becauſe <hi>he</hi> would not deliver him <hi>coards of wood,</hi> as <hi>Roote wood, and Stub wood,</hi> which was much of them the <hi>beſt ſort of wood;</hi> and five thouſand <hi>Coard</hi> taken by him, and the other <hi>Iron Maſters</hi> contrary to <hi>Order,</hi> and the <hi>coaling</hi> of neere <hi>foure thouſand Coards</hi> by them, ſince the <hi>Commiſſioners</hi> prohibition. Inſomuch, that the <hi>Coarders</hi> de<g ref="char:EOLhyphen"/>poſe, that they muſt make the <hi>Coards</hi> above <hi>aſſize,</hi> or they ſhall have <hi>no worke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and the <hi>Officers,</hi> that they are inforced to deliver <hi>Coards</hi> above <hi>aſſize,</hi> and con<g ref="char:EOLhyphen"/>trary to <hi>order,</hi> leaſt otherwiſe <hi>thoſe take them,</hi> and give <hi>no account</hi> thereof to the <hi>State.</hi> I could alſo give pregnant <hi>Inſtances,</hi> how <hi>Captaine Philips,</hi> en<g ref="char:EOLhyphen"/>couraged the <hi>Cutters</hi> to <hi>cut</hi> contrary to the <hi>Order</hi> of <hi>Parliament,</hi> though it coſt a <hi>thouſand pound,</hi> and when forbid by <hi>Order,</hi> ſaid, he would <hi>cut,</hi> though one who is a <hi>Member</hi> of the <hi>Councell of State</hi> were on the <hi>tree,</hi> with many other <hi>groſſe abuſes</hi> and <hi>deſtruction of timber</hi> by <hi>him,</hi> and others; but this I hope, is a ſufficient, <hi>taſte</hi> of the <hi>Innocency</hi> of theſe <hi>Gentlemen,</hi> and the <hi>credit</hi> of the <hi>Libellers vindi<g ref="char:EOLhyphen"/>cation:</hi> which with many other particulars, being under the conſideration of the <hi>Honourable Barons</hi> of the <hi>Exchequer,</hi> I ſhall leave to their <hi>Judgements.</hi>
+            </p>
+            <p>I ſhall paſſe by the <hi>merits</hi> of thoſe <hi>Gentlemen,</hi> who being ſo much in their owne <hi>commendation,</hi> ſeeme to dwell farre from <hi>good Neighbours,</hi> whoſe <hi>Eagle-eyes</hi> have not yet perceived their brave <hi>atchievements,</hi> nor could <hi>I</hi> ever heare (till now) of their <hi>performances,</hi> unleſſe of betraying Truſts, and revolting from the Parliament to the King, and writing ſcandalous books againſt them.</p>
+            <p>Nor ſhall I ſpeake of their <hi>righteouſneſſe,</hi> which the <hi>returne</hi> of our <hi>Commiſ<g ref="char:EOLhyphen"/>ſion</hi> will more fully declare, even in the <hi>running</hi> of that <hi>Gallant Forreſt,</hi> and the ſad cries of the <hi>Country,</hi> by reaſon of <hi>Tyrannicall</hi> and <hi>forcible</hi> taking away of their Furnaces, Forges, <hi>water</hi> Courſes, <hi>deſtruction of their woods, k<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>agring and thirſting after their Eſtates,</hi> under pretence of advancing the <hi>Publique treaſurie, contemning and diſobeying Orders of Parliament,</hi> calling them <hi>hedge orders,</hi> and the <hi>Commiſſion under the new Great Seale, a hedge Commiſſion, brag<g ref="char:EOLhyphen"/>gi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g</hi> that they could make men <hi>ſweare</hi> and <hi>unſweare</hi> what they pleaſed, with many other Outrages of a more groſs <hi>nature,</hi> which my heart doth tremble to think of, and my pen to write. I feare ere long will ſhew to the world: but becauſe this is ſomewhat large; and intended to be produced after another manner ſuddenly. I forbeare at the preſent to nominate them.</p>
+            <p>The <hi>Libeller,</hi> having thus far proceeded in the <hi>State</hi> of the <hi>caſe,</hi> goes on next to the <hi>condition</hi> of the <hi>Commiſſioners,</hi> whom he ſtiles <hi>Proſecutors,</hi> and with <hi>unparaleld defamations</hi> endeavors to <hi>raviſh</hi> the chaſt <hi>Judgements</hi> of <hi>upright Pa<g ref="char:EOLhyphen"/>triots</hi> into a <hi>beleife</hi> of their owne <hi>Innocency,</hi> and to <hi>leſſen</hi> the reputation of the <hi>Commiſſioners</hi> and their <hi>ſervice</hi> to the <hi>Common-wealth.</hi>
+            </p>
+            <p>But why <hi>Proſecutors?</hi> do they any more then their <hi>duty</hi> &amp;c. then what it be<g ref="char:EOLhyphen"/>hoves them as to the returne of their <hi>Commiſſion,</hi> in giving account of it to
+<pb n="4" facs="tcp:40672:3"/> 
+               <hi>them</hi> whom it concerns, is the returne of a <hi>Commiſſion a Proſecution?</hi> I thought the <hi>Libeller</hi> had underſtod more <hi>Law</hi> and <hi>reaſon.</hi>
+            </p>
+            <p>And yet, why not <hi>Proſecutors?</hi> when the matter they are upon, is of ſo much concernment to the <hi>very being</hi> of <hi>England;</hi> and which no true <hi>bred Son of hers,</hi> but ought to <hi>proſecute,</hi> and to bring the <hi>Authors</hi> of ſuch <hi>miſcheifes</hi> to <hi>Exemplary puniſhment:</hi> If ſo be, the deſtruction of above <hi>fifty thouſand Trees of Oake and Beech:</hi> the beſt part of which were <hi>Timber,</hi> ſome of them an <hi>Elle and a halfe ſquare,</hi> and ſome <hi>worth 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> l. a Tree,</hi> in the ſpace of <hi>ſeaven yeares in one Forreſt,</hi> much of which contrary to <hi>Orders</hi> of all <hi>Authority,</hi> the <hi>contemning</hi> and <hi>abuſing thoſe Orders and Commiſſions,</hi> by ſome that ſit within <hi>thoſe walls;</hi> the taking that for 3ſh 2 s. 8 d. &amp; 1 ſh. which is worth 30 s. the <hi>forcible ta<g ref="char:EOLhyphen"/>king wood without delivery,</hi> and that <hi>proprieties</hi> of other men, who <hi>groane</hi> under their <hi>oppreſſions,</hi> but dare not <hi>ſeek</hi> for <hi>releife,</hi> either at <hi>Law,</hi> or by <hi>Petition, with</hi> divers <hi>things</hi> of this <hi>nature,</hi> and the <hi>preſervation</hi> of <hi>Timber</hi> (which by <hi>Sequeſtra<g ref="char:EOLhyphen"/>tions, Biſhops, Deane, and Chapter, Crowne Lands,</hi> and <hi>Iron works,</hi> is threatned ſuddenly to <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e deſtroyed) but no matter of proſecution what is?</p>
+            <p>Beſides, why are we <hi>Proſecutors,</hi> more then the <hi>Parliament,</hi> who <hi>ſet in</hi> on work? Methinks the <hi>Libeller</hi> ſhould have been more <hi>wiſe,</hi> then <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſtrike through ours into <hi>their ſides,</hi> whoſe <hi>commands</hi> we have followed, and <hi>highly</hi> to charge the <hi>Parliament</hi> with <hi>Iniuſtice Page</hi> 6. (for whom elſe can it meane) for proceeding againſt them as <hi>Malefactors</hi> without <hi>hearing</hi> of them; or calling them to <hi>Anſwer,</hi> or notice of the <hi>charge</hi> againſt them, who have made no procee<g ref="char:EOLhyphen"/>dings upon them but generall <hi>Votes concerning</hi> the preſervation of <hi>Timber,</hi> and their particular <hi>offences,</hi> not being as yet brought into <hi>charge</hi> againſt them, but <hi>may</hi> be in due ſeaſon.</p>
+            <p>
+               <hi>The Proſecutors</hi> (ſayeth the <hi>Libeller) are ſuch perſons, and of ſuch conditions,</hi> as are <hi>expreſſed;</hi> who as is conceived <hi>procured</hi> themſelves to be in the <hi>Commiſſion.</hi>
+            </p>
+            <p>And here by his <hi>Emphaſis;</hi> he would make the world ſuppoſe them to be the very <hi>Extract</hi> of <hi>Goales</hi> and <hi>Priſons,</hi> and a <hi>compoſitum</hi> of <hi>Debauchery, Irreligion, Drunkenneſſe,</hi> and other <hi>wickedneſſes,</hi> when as the <hi>Country</hi> ſo well knows their <hi>birth, breeding, manner of life, honeſty, faithfullneſſe and activity, for the Parlia<g ref="char:EOLhyphen"/>ments ſervice,</hi> that the very <hi>children</hi> are able to give the <hi>lye</hi> to theſe <hi>ſcandalls,</hi> and indeed deſerves no <hi>Anſwer,</hi> for if, <hi>Parliamentary Authority,</hi> is not freed from their darts, and <hi>Gentlemen of Honour and Gallantry</hi> called <hi>fooles and aſſes,</hi> wee muſt not look for any <hi>better:</hi> A bad Tree cannot bring forth good fruit: Sure<g ref="char:EOLhyphen"/>ly the <hi>Libeller</hi> is conſcious of ſo many <hi>miſcariages,</hi> that he thinks <hi>all</hi> are of his <hi>complexion,</hi> or at leaſt like <hi>thoſe</hi> whom hee endeavours to <hi>vindicate.</hi> But ſuppoſe thoſe, whom he calls <hi>Proſecutors</hi> were guilty of all thoſe <hi>offences,</hi> will <hi>that iuſtifie</hi> the <hi>crimes</hi> of the named <hi>Gentlemen</hi> or <hi>Enervate</hi> the <hi>validity</hi> of thoſe that have <hi>depoſed</hi> their <hi>tranſegreſſions?</hi> if <hi>Infirmities</hi> ſhall <hi>invaliditate teſtimonies,</hi> whoſe <hi>aſſertions</hi> ſhall ſtand good? The <hi>Queſtion</hi> is not vvhat the <hi>Commiſſioners</hi> are, but what are the <hi>offences</hi> they <hi>preſent?</hi> will you be <hi>angry;</hi> if bad men produce <hi>good things?</hi> Surely I think that <hi>a good action</hi> performed by a <hi>bad man,</hi> deſerves as much <hi>commendation,</hi> as an <hi>evill one,</hi> from him that <hi>ſaith</hi> he is <hi>good</hi> doth <hi>puniſh<g ref="char:EOLhyphen"/>ment.</hi> Certainly the <hi>Commiſſioners</hi> had not fallen under the <hi>Libellers laſh,</hi> had not they <hi>detested</hi> to ſerve his <hi>luſts</hi> and <hi>humours.</hi>
+            </p>
+            <q>—Hee ſaith, (<hi>as may be conceived, procured themſelves in the Commiſſion.</hi>
+            </q>
+            <p>Well ſhot at an adventure, <hi>It may be</hi>—. See the ground of <hi>Theſe</hi> bold <hi>calum<g ref="char:EOLhyphen"/>nies,</hi> it reſts upon a <hi>tottering probability,</hi> will the <hi>Libeller</hi> think it honeſt dea<g ref="char:EOLhyphen"/>ling
+<pb n="5" facs="tcp:40672:3"/> to be ſet out to the world under the deepeſt <hi>Tincture</hi> of offences with <hi>It may Bee?</hi>
+            </p>
+            <p>But why, <hi>procure themſelves in the Commiſſion?</hi> will any <hi>rationall man</hi> think, that the <hi>Gentlemen</hi> are ſo <hi>indiſcreet,</hi> as to leave the proſecution of their <hi>Merchan<g ref="char:EOLhyphen"/>dize,</hi> and other neceſſary <hi>employments,</hi> to make many <hi>journeys</hi> into the <hi>Countrey</hi> with their <hi>ſervants,</hi> there to <hi>ſtay ſeverall dayes</hi> at a time, have 200. <hi>people</hi> atten<g ref="char:EOLhyphen"/>ding their buſineſſe, and <hi>dieted</hi> at their own <hi>charge,</hi> take the <hi>depoſitions</hi> of many <hi>hundred perſons,</hi> which <hi>five and twenty skins of Parchment</hi> will hardly containe, <hi>attend a hundred miles</hi> diſtance at <hi>London</hi> from day to day, for <hi>five weeks together,</hi> being at neare 200. l. cha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge, and proceed upon all this, without ſo much as any promiſe for the <hi>reinburſing</hi> them againe, what they have laid out (though they conceive ſo <hi>Honourably</hi> of the <hi>Parliament,</hi> as that they will make them <hi>ſa<g ref="char:EOLhyphen"/>tisfaction</hi>) I ſay, will any <hi>rationall</hi> man conceive them in their <hi>witts,</hi> to pro<g ref="char:EOLhyphen"/>cure themſelves into ſo much <hi>charge</hi> and <hi>trouble</hi> to attend it, had not the <hi>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epe ſenſe</hi> of the concernment of the <hi>buſineſſe,</hi> and their more then ordinary <hi>zeale</hi> to promote ſuch a publique <hi>ſervice</hi> ſet them on work?</p>
+            <p>How many ſuch <hi>ſervices</hi> hath the <hi>Libeller</hi> and his <hi>vindicates</hi> undergone? ſhould they not rather have given them <hi>thankes,</hi> then ſuch <hi>abuſes?</hi> But ſome of the named <hi>Gentlemen</hi> know, who endeavoured to be in a former <hi>Commiſſion,</hi> 1645: that thereby they might have opportunity to <hi>ſerve themſelves</hi> in the <hi>pub<g ref="char:EOLhyphen"/>licke ruines</hi> of that <hi>gallant Forreſt,</hi> and therefore they are diſpleaſed that the <hi>courſe</hi> of their <hi>gaine</hi> on the <hi>States loſſe,</hi> is <hi>ſtopt,</hi> and do think that <hi>others</hi> are like <hi>them<g ref="char:EOLhyphen"/>ſelves.</hi> Nay, had we procured <hi>our ſelves</hi> to be in the <hi>Commiſſion,</hi> it had beene the more <hi>commendable,</hi> though <hi>for my owne part,</hi> I ſeriouſly profeſſe, I knew not of my <hi>putting in;</hi> nor do I believe did the other <hi>Gentlemen,</hi> whoſe names are (becauſe he is pleaſed not to name them) Ald. <hi>Aldworth,</hi> Ald. <hi>Hodges, Members of Parliament,</hi> Ald. <hi>Vickris,</hi> Ald. <hi>Jackeſon,</hi> Ald. <hi>Brown.</hi>
+            </p>
+            <p>
+               <hi>The Libeller</hi> now goes on to particulars, where his pen <hi>railes</hi> at Col. <hi>Brom<g ref="char:EOLhyphen"/>wich,</hi> and Col. <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrow,</hi> who no doubt but will give a <hi>good account</hi> of themſelves to his ſhame. I ſhall leave them to their <hi>own vindication,</hi> only in the <hi>Generall</hi> ſhall <hi>ſay</hi> and <hi>affi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me,</hi> That in all the <hi>preſecution of this buſineſſe, I found as much reality, uprightneſſe, and love to publique Justice, and as much freedome from De<g ref="char:EOLhyphen"/>bauchery, Drunkenneſſe, Peeviſhneſſe, Irreligion, Scandalousneſſe, Disaffection to Government, Treaſon, deſtruction of woods, unworthineſſe, as any I have of late met withall, Gentlemen of eſtates,</hi> and <hi>reputation</hi> in the <hi>Countrie,</hi> and <hi>men</hi> to whom this <hi>State</hi> ow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s much for <hi>for<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mer,</hi> and theſe <hi>latter ſervices,</hi> which I ſhould not now <hi>write,</hi> but that the venome of their <hi>aſperſions</hi> in theſe <hi>Gentlemens</hi> reputation ſo much conſtrains me.</p>
+            <p>I could wiſh, and it would be well; if thoſe named in the <hi>front</hi> of the <hi>Li<g ref="char:EOLhyphen"/>bell</hi> were free from thoſe, and greater <hi>offences,</hi> with which they charge theſe <hi>Genntlemen,</hi> which my pen bluſheth to write, the thought thereof aſtoniſhing my ſpirits. It may be ſome that thinke themſelves <hi>unſeen</hi> in this <hi>buſineſſe,</hi> can<g ref="char:EOLhyphen"/>not throw the ſtone againſt <hi>Drunkenneſſe</hi> (I write not to <hi>excuſe</hi> it in any.) and I could wiſh they had as much conſcience to <hi>God</hi> and <hi>man,</hi> as they have to their owne <hi>Intereſt;</hi> for which it may be feared they make <hi>Religion a cloake,</hi> which <hi>God</hi> will in time <hi>diſcover,</hi> for <hi>there is nothing hid that ſhall not be revealed</hi> and I wiſh them as <hi>honeſt</hi> to the <hi>publique Intereſt,</hi> as thoſe <hi>Gentlemen</hi> they ſo much <hi>ſcandalize.</hi> It may be they could not follow the <hi>Luxuriant Exorbitan<g ref="char:EOLhyphen"/>cies</hi> of ſome <hi>men,</hi> who would be as the <hi>fiſhes in the Sea,</hi> the <hi>greater</hi> to devou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the
+<pb n="6" facs="tcp:40672:4"/> 
+               <hi>leſſer,</hi> and it may be like <hi>Chriſtians,</hi> and <hi>tender hearted men</hi> have ſtept in to ſave ſome poore Families, from their <hi>unſatiable hatred and Avarice,</hi> and becauſe of this, have been ſuppoſed troublers of <hi>Committees;</hi> when (as I ſaid before) they onely endure ſuch to ſit, as will <hi>ſerve</hi> their <hi>ends,</hi> and privately <hi>Iuncto</hi> them together, when the <hi>other thinke,</hi> they are <hi>departed,</hi> and in this <hi>cloſe chamber, Mr. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>romwich</hi> is not deſired.</p>
+            <p>As for their <hi>Loyaltie</hi> to the <hi>State,</hi> let the world <hi>judge,</hi> which are more <hi>lovers</hi> of the <hi>Common-wealth,</hi> either they that out of their great ſence of the deſtructi<g ref="char:EOLhyphen"/>on of <hi>Timber,</hi> and therein of the ſtrength of the <hi>Nation,</hi> and of private mens <hi>Tirannizing</hi> over the <hi>eſtates,</hi> and the proprieties of their <hi>Brethren,</hi> which is in order to the <hi>ruine</hi> of the <hi>Nation; owne a Commiſſion,</hi> under the new great <hi>Seal of England,</hi> wherein they undergoe abundance of charge and trouble, and the neglect of all that is <hi>deare</hi> to them, to <hi>redreſſe</hi> thoſe evills; Or, <hi>thoſe</hi> who have made thoſe deſtructions, diſobedyed the Orders of the <hi>State,</hi> made to prevent thoſe diſtructions, commanding men to break them; called them <hi>hedge</hi> orders, and the <hi>Commiſſion</hi> under the new great Seale a <hi>hedge Commiſſion, openly contemning it,</hi> Revolters, writers of ſcurrilous books againſt the Par<g ref="char:EOLhyphen"/>liament; that have boaſted that they have cut downe <hi>foure hundred</hi> trees contrary to an <hi>Order of Parliament;</hi> and notoriouſly <hi>abuſe</hi> and <hi>ſcandalize</hi> thoſe that through abundance of <hi>Toyle</hi> have brought thoſe <hi>ſpoyles</hi> to light, and ear<g ref="char:EOLhyphen"/>neſtly ſollicited for the future redreſſe of them, which if not remedied, (it be<g ref="char:EOLhyphen"/>ing now bleſſed be God in a good progreſſe) had expoſed us to the cruelty and ſcorne of our Enemies. I am ſure I have heard Colonel <hi>Burrow</hi> ſay, that though it was his own Brother, yet if he abuſed the Authority, by which he was pro<g ref="char:EOLhyphen"/>tected, he would not beare it; and tis very likely that Maſter <hi>Pury</hi> Junior knowes, who bleſſed God, that his father and he had no hand in that—Action of killing the King, and who ſtood a while <hi>ſecluded,</hi> as one diſaffected to this change of Government, for the reſt I leave it to thoſe <hi>Gentlemen</hi> whom it con<g ref="char:EOLhyphen"/>cernes to aſſert their owne <hi>Innocencie.</hi>
+            </p>
+            <p>The next in order are the <hi>Citizens of Briſtoll,</hi> whom he honour<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not ſo much as with a <hi>name,</hi> but tells you—that ſome of the Aldermen there did joyne before, or at the beginning of this Parliament, joyned in a bargaine for the deſtruction of the wood; ſome <hi>Aldermen of Briſtoll,</hi>—what is that to the <hi>Gentlemen</hi> ſcanda<g ref="char:EOLhyphen"/>lized? becauſe <hi>Combes</hi> is a robber, therefore <hi>Mr. Pury</hi> is, will he take this for good <hi>Logick?</hi>
+            </p>
+            <p>And before, or at the beginning of this <hi>Parliament,</hi> what is that to 1649. Its poſſible that ſome of thoſe named <hi>Gentlemens bloud</hi> ranne in their veines, or elſe were men <hi>ſpighted</hi> by <hi>them;</hi> becauſe they could have no <hi>Intereſt</hi> in the <hi>ad<g ref="char:EOLhyphen"/>vantage,</hi> which ſince they have proſecuted with <hi>vigor proportionable</hi> to the <hi>edge</hi> of their <hi>affections</hi> ſo long <hi>whetted,</hi> and to the opportunity, that none might <hi>gleane</hi> after them; But can he name any more then <hi>Alderman Taylor,</hi> and <hi>Alderman Gunning?</hi> were not Sir <hi>Baynnem Throgmorton,</hi> and Sir <hi>Sacvile Crow,</hi> the chiefe deſigners? yet I will not become their <hi>Advocate,</hi> the Judgment of one of them is ere this paſſed in another world, I wiſh the <hi>Judgement</hi> of theſe may be onely in this, to <hi>amendment</hi> of life, and <hi>repentance</hi> for their <hi>offences.</hi>
+            </p>
+            <p>
+               <hi>And theſe things</hi> (ſaith he) <hi>were not complained of</hi>—if they had not been could we <hi>help</hi> it? tis well that we now <hi>ſee it</hi> and <hi>complaine;</hi> Are you offended be<g ref="char:EOLhyphen"/>cauſe we are ſo farre from following the ſteps of our <hi>Predeceſſors,</hi> that we <hi>com<g ref="char:EOLhyphen"/>plains</hi> of thoſe that doe <hi>alike tranſgreſſe?</hi> yet if the <hi>Libeller</hi> would but a little
+<pb n="7" facs="tcp:40672:4"/> informe <hi>himſelfe,</hi> he would finde that a worthy <hi>Gentleman. Alderman Barkar deceaſed</hi> (whoſe memory is prec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous) did ſo farre contend about it, that it was the <hi>breaking of his heart,</hi> that he could not <hi>remedie it.</hi>
+            </p>
+            <p>But the <hi>Libeller</hi> tells us that ſome of the <hi>Citizens of Briſtoll</hi> are the greateſt <hi>Ironmaſters and Ironmongers</hi> in the <hi>weſt of England;</hi> and have great quantities of <hi>Iron,</hi> and are <hi>adventurers</hi> for <hi>Swediſh and Spaniſh Iron, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>The greateſt Ironmongers in the weſt of England,</hi> ſurely the <hi>Libeller</hi> was never <hi>choaked</hi> with a <hi>ſmall bone:</hi> is he ſuch a ſtranger to the <hi>Forreſt Ironmaſters?</hi> and for the Iron that is in <hi>Briſtoll,</hi> is it not from the Forreſt? If it be an offence to ſell it, tis a greater to make it. But what is this to the purpoſe? are any of Commiſſioners that are of Briſtoll Ironmaſters, and Ironmongers? If not what deſigne can they have in the buſineſſe?</p>
+            <p>But ſaith he, they are aduentures to Swetheland, &amp;c.</p>
+            <p>Tis tr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, they named <hi>Swethland and Spaine in their Petition</hi> as an <hi>expedient</hi> to ſerve the Nation, in caſe of demoliſhing the Iron-works here, that are ſo de<g ref="char:EOLhyphen"/>ſtructive, but for adventures they are very little, if any at all: But why may they not, as for Wine, &amp;c. ſince that this is of publique advantage, and running the hazard of the Sea, why ſhould they not have a recompence?</p>
+            <p>Tis (ſaith the Libeller) to raiſe the price of their owne Iron, which this laſt yeare is fallen from 19. l. a tun, to 15.</p>
+            <p>Did they doe ſo, yet they are but quit with thoſe Gentlemen, who being asked why they ſold their Iron, two or three pounds in a tun cheaper then others, and how they could afford it, one ſaid, he had wood for nothing,; the other for a groat a Cord <hi>Col. Kerls,</hi> and Captaine <hi>Braine</hi> can tell you, who it meanes: and herein be thine owne Judge Libeller, whether tis not thine envying at another mans proſperity, not the publique advantage of the Nation; that thou art ſo much troubled.</p>
+            <p>And do thou be judge O <hi>Reader,</hi> how much the <hi>Libeller</hi> makes conſcience of what he aſſerts, whereas not one ſingle man of the Commiſſioners of <hi>Briſtol,</hi> or thoſe Gentlemen in the Petition from thence had ever any thing to do with the Iron works, or any thing that belongs to it, nor have they 20. tun of Iron lying by them of Forraign or Domeſtick whatſoever, we alſo adde our deſire that he that hath any ſelfe ends in this buſineſſe, may hve the vizard of his Hypocriſy plucked off, himſelfe placed upon <hi>Pauls</hi> ſteeple for a wonder to the world.</p>
+            <p>All which appears (ſaith hee) <hi>by the mannagement of their commiſſion, for it is well knowne, that in the Woodwardſhip of Avan Hall there were 10000. Trees cut downe, and at leaſt 10000. more in other places &amp;c.</hi> It ſeemes the <hi>Libeller</hi> is a good Accountant, and hath taken ſome paines in the Survey of the Forreſt, it had been well, if he had manifeſted ſo much Ingenuity as to have told the reſt; and ſaved the State and us, ſo much charge and labour: But he might have for<g ref="char:EOLhyphen"/>borne his cenſure, till he had ſeen our returne, and then he would have found, that the forbid Oakes of an Ell and halfe ſquare, ſome of them worth 20 l. a Tree, ſoune, and not ſo much as ſhrowded, and ſome thouſands more (If I miſtake not) <hi>proved upon the Iron Maſters out of that Woodwardſhip:</hi> If he had not a full account of all things, we may thanke Capt. <hi>Purie</hi> with the others in the Vindi<g ref="char:EOLhyphen"/>cative, who with their abuſing of the Authority of Parliament, and other Ty<g ref="char:EOLhyphen"/>rannicall actions; made the Country in a great meaſure to deſert us, he might al<g ref="char:EOLhyphen"/>ſo have told us of 4000. Trees cut downe in a yeare in <hi>Ruardeane</hi> by Captaine <hi>Purie</hi> and others, wherein were many Timber Trees, and not above two of thoſe marked now ſtanding, alſo 8000 Timber Trees cut by the Vindicates in</p>
+            <pb n="8" facs="tcp:40672:5"/>
+            <p>And no mention made (ſaith the Libeller) in their Petition of the ſpoiles by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Inhabitants &amp;c.</p>
+            <p>What he means by the <hi>Inhabitants,</hi> I cannot vvell tell, doubtleſſe the <hi>Cabo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ners</hi> vvho <hi>ſerve</hi> their <hi>furnaces,</hi> vvere the <hi>cheife,</hi> for <hi>others,</hi> the Officer<g ref="char:EOLhyphen"/>keept them <hi>bare</hi> enough, even of the very <hi>Priviledges</hi> due to them of <hi>Plough-boot, Houſe boot,</hi> &amp;c. yet have vvee in our returne ſet dovvne as many, as vve could poſſible heare of, vvithout reſpect of <hi>perſons,</hi> though they neither men<g ref="char:EOLhyphen"/>tioned the one, nor other in their <hi>Petition:</hi> It ſeemes it greives them that any <hi>water</hi> runs beſides their <hi>Mill.</hi> Nay ſo <hi>Exact</hi> were vvee, that vvhat ever vve cold heare of againſt any of <hi>Briſtoll,</hi> or againſt <hi>Col Berrow a Commiſſioner,</hi> vve have <hi>returned,</hi> though vve found that vvhat <hi>Colonell Berrow</hi> vvas <hi>charged with,</hi> vvas either <hi>his</hi> by the grant of <hi>Ed. 1. as Woodward,</hi> or what the very <hi>Officers</hi> that preſented him, have <hi>cleared;</hi> which will <hi>appeare</hi> when it comes to <hi>triall.</hi>
+            </p>
+            <p>
+               <hi>But they petition that the Iron works may be preſently razed, though ſet up by Authority of Parliament to enrich themſelves &amp;c.</hi>
+            </p>
+            <p>And well may they, and ſuch Perſons alſo as notorious Malefactors that make no <hi>conſcience</hi> to ruine the <hi>Nation</hi> for their <hi>advantage,</hi> and that become <hi>advocates</hi> for ſuch Offendors; whom I cannot conceive but to be worſe <hi>Members of the Common-wealth,</hi> then the Papiſts and Malignants, they chalenge <hi>ſome</hi> to protect.</p>
+            <p>Tis true, the <hi>Parliament</hi> might permit then ſetting them up for Good ends, and they can, upon better Accounts, pluck them downe without your leave Sir, when they appeare (as by the vindicates management) ſo <hi>diſtructive;</hi> and you too alſo, <hi>who ever you are,</hi> if you be diſcovered and found to be a <hi>burthen,</hi> an <hi>Achan</hi> to the Common-wealth, of which I wiſh you to beware, and look to, for the <hi>howre of Temptation, The day of the Lord is at hand,</hi> he is as a <hi>refiners fire</hi> and will throughly purge his floore, and take heed leaſt you ſay, that day is ter<g ref="char:EOLhyphen"/>rible, and who can endure it? <hi>And all to inrich themſelves &amp;c.</hi>
+            </p>
+            <p>This is never out of the <hi>Libellers</hi> mouth, <hi>Enrich, Enrich,</hi> theres the <hi>Plague,</hi> ſhould not now <hi>write;</hi> but that the venome of their <hi>aſperſions</hi> in theſe <hi>Gentle<g ref="char:EOLhyphen"/>mens</hi> reputation ſo much <hi>conſtraines</hi> me.</p>
+            <p>To conclude, <hi>Reader,</hi> I am aſſured that no <hi>ſelfiſh end</hi> drew theſe <hi>Gentlemen</hi> of <hi>Briſtoll</hi> to this <hi>difficult undertaking,</hi> nor the <hi>Magiſtrates</hi> or <hi>Merchants</hi> of <hi>Briſtoll</hi> in their <hi>Petition,</hi> but <hi>a deep ſenſe</hi> of a <hi>growing miſchiefe,</hi> to which they were <hi>near<g ref="char:EOLhyphen"/>ly ſeated,</hi> and as <hi>nearly concerned,</hi> for which they receive this <hi>recompence of ſcandal.</hi> But I will tell <hi>thee,</hi> what is the reaſon of the <hi>throwing</hi> of all this <hi>dirt,</hi> (viz.) <hi>Be<g ref="char:EOLhyphen"/>cauſe they would not be courted by ſugred Expresſions, nor entertain the Civill offer of</hi> 2000. l. <hi>advantage in Cann. wood, which was tendered at Lidney, to one of the</hi> Aldermen, Sept. 12. 1649. <hi>by one of their</hi> Creatures <hi>as fit for the</hi> Merchants <hi>of</hi> Briſtol.</p>
+            <p>I ſay becauſe none of theſe things would prevail with them to be falſe to their Truſt, not by the telling them the Forreſt was deſtroyed, &amp; not be remained worth our labour, and what was lef<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Parliament was reſolved to ſell, for the Souldiers Arrears, to neglect their duty, therefore they have diſcharged their malice againſt them in black Calumnies, and intollerable reproaches, of which we hope the <hi>Parliament</hi> will be ſo ſenſible, that we who freely have undergone ſo much trouble, charge, and reproach in the management of a buſineſſe of ſo high concernment, ſhall be juſtified from theſe great abuſes, and Capt. <hi>Pury</hi> and the reſt he called to a ſtrict <hi>account</hi> for abu<g ref="char:EOLhyphen"/>ſing and diſobeying their <hi>Orders, Commiſſions,</hi> and <hi>Commands,</hi> leſt ſuch preſidents remaining unpu<g ref="char:EOLhyphen"/>niſhed, both our ſelves and others be thereby concluded under all diſcouragements to ex<gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ny of their Commiſſions, or complain of any grievances for ihe future: And that proviſion ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be made for the effectuall preſervation of Timber through our all <hi>England,</hi> (in which they hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made a happy progreſs) and which we deſire God to bleſſe them in, and in all other good thing<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for the proſperity of this Common-wealth.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:40672:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
